@@ -1,6 +1,6 @@
 import Navbar from "../components/navbar";
 
-export default function home() {
+export default function Home() {
     return (
         <>
             <Navbar />
@@ -14,7 +14,7 @@ export default function home() {
                     <img src="pic1.png" alt="pic" className="h-96" />
                 </div>
             </div>
-            <div className="border border-red-500 h-50 bg-[#D9D9D9CC] flex">
+            <div className="border border-transparent h-50 bg-[#D9D9D9CC] flex">
                 <div className="relative w-[100px] h-[100px] -rotate-[20deg] border-[3px] border-[#FF7F3E] ml-[230px] mt-[50px]">
                 <img src="pic2.png" alt="pic2" className="absolute w-96 h-96 object-contain rotate-[-5deg] -top-4 -mt-[150px]"/>
                 </div>
