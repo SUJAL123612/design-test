@@ -3,8 +3,7 @@ import Navbar from "../components/navbar";
 export default function Home() {
     return (
         <>
-            <Navbar />
-            <div className="h-full flex w-full ">
+            <div className="h-full flex w-full " id="#home">
                 <div className="ml-[120px] ">
                     <img src="NAME.svg" alt="name" className="ml-[80px] h-24 mt-[50px] mb-5" />
                     <p className="text-xl ml-[80px] text-wrap  w-63 text-[#00000099] mb-[100px]">Unleash your phonky style. Stand out Be <span className="text-[#FF7F3E] font-bold">bold.</span></p>
