@@ -1,6 +1,6 @@
-import Navbar from "./components/navbar";
-import Home from "./home/page";
 import New_arrivals from "./new_arrivals/page";
+import Shop from "./shop/page";
+import Support from "./support/page";
 
 
 export default function main() {
@@ -8,7 +8,8 @@ export default function main() {
     <>
       
       <New_arrivals/>
-
+      <Shop/>
+      <Support/>
     </>
   );
 }

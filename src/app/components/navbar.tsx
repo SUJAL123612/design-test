@@ -9,7 +9,7 @@ const Navbar = () => {
                     <Link className="mr-[50px] text-gray-700 hover:text-black" href="#home">HOME</Link>
                     <Link className="mr-[50px] text-gray-700 hover:text-black" href="#new_arrivals">NEW ARRIVALS</Link>
                     <Link className="mr-[50px] text-gray-700 hover:text-black" href="#shop">SHOP</Link>
-                    <Link className="justify-between mr-[100px] text-[#00000099] hover:text-black" href="/support">SUPPORT</Link>
+                    <Link className="justify-between mr-[100px] text-[#00000099] hover:text-black" href="#support">SUPPORT</Link>
                 </ul>
                 <form className="text-xl mt-[38px] -mr-8 pr-5 pl-5 h-[28px] flex">
                     <input type="text" placeholder="Search..." className="rounded-xl w-40 pl-10 h-full bg-[url('/Vector.svg')] bg-no-repeat bg-left bg-[length:40px_20px]"/>

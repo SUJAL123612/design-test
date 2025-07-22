@@ -1,4 +1,3 @@
-import Navbar from "../components/navbar";
 import Home from "../home/page";
 
 
@@ -12,8 +11,8 @@ export default function New_arrivals() {
 
                 </div>
                 <div className="border border-transparent h-[450px] flex">
-                    <div className="rounded-lg bg-[#F8F8F8] h-90 w-55 mt-8 ml-[150px] border border-transparent relative">
-                    <div className="absolute border border-transparent h-73 rounded-b-2xl shadow-xl/20 w-55">
+                    <div className="rounded-lg bg-[#F8F8F8] h-90 w-55 mt-8 ml-[150px] border border-transparent relative cursor-pointer">
+                    <div className="absolute border border-transparent h-73 rounded-b-2xl shadow-[0_4px_6px_-1px_rgba(0,0,0,0.2)] w-55">
                         <img src="pic3.png" alt="" className="h-73 ml-[33px] z-1 -mt-[7px] w-50 absolute"/>
                         <img src="pic3_1.png" alt="" className=" h-78 -ml-[10px] -mt-[25px] w-50 "/>
                     </div>
@@ -21,8 +20,8 @@ export default function New_arrivals() {
                         <p className="font-bold text-[14px] ml-3">₹ 549.00 <span className="line-through text-[#0000006B] ml-3 text-[14px]">₹ 1,249.00</span></p>
                         <img src="STARS.png" alt="" className="w-24 -pt-[7px] pl-3"/>
                     </div>
-                    <div className="rounded-lg bg-[#F8F8F8] h-90 w-55 mt-8 ml-[150px] border border-transparent relative">
-                    <div className="absolute border border-transparent h-73 rounded-b-2xl shadow-xl/20 w-55">
+                    <div className="rounded-lg bg-[#F8F8F8] h-90 w-55 mt-8 ml-[150px] border border-transparent relative cursor-pointer">
+                    <div className="absolute border border-transparent h-73 rounded-b-2xl shadow-[0_4px_6px_-1px_rgba(0,0,0,0.2)] w-55">
                         <img src="pic1.png" alt="" className="h-73 ml-[5px] z-1 -mt-[7px] w-50 absolute"/>
                        
                     </div>
@@ -30,8 +29,8 @@ export default function New_arrivals() {
                         <p className="font-bold text-[14px] ml-3">₹ 549.00 <span className="line-through text-[#0000006B] ml-3 text-[14px]">₹ 1,249.00</span></p>
                         <img src="STARS.png" alt="" className="w-24 -pt-[7px] pl-3"/>
                     </div>
-                    <div className="rounded-lg bg-[#F8F8F8] h-90 w-55 mt-8 ml-[150px] border border-transparent relative">
-                    <div className="absolute border border-transparent h-73 rounded-b-2xl shadow-xl/20 w-55">
+                    <div className="rounded-lg bg-[#F8F8F8] h-90 w-55 mt-8 ml-[150px] border border-transparent relative cursor-pointer">
+                    <div className="absolute border border-transparent h-73 rounded-b-2xl shadow-[0_4px_6px_-1px_rgba(0,0,0,0.2)] w-55">
                         <img src="pic4.png" alt="" className="h-73 ml-[5px] z-1 -mt-[7px] w-50 absolute"/>
                     </div>
                     <p className="text-[10px] font-bold ml-3 pt-[300]">Wiseman White Men’s Oversized T-shirt</p>
